@@ -18,5 +18,4 @@ Come say hi!
 ---
 *Made with 💜 by Fur-Cord*
 ---
-
-<img width="500" height="500" alt="banner" src="https://github.com/user-attachments/assets/e7f817c8-c848-471d-be47-9b52473d6667" />
+<img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/2aa38e6d-72c5-4bae-9b8a-ab125033cc00" />
